@@ -1,3 +1,2 @@
 # Website
-the link to the website is right here https://onesecureinternet.weebly.com/
-copy and paste that into browser to find our website.
+This is our final COSC 101 project, we created a website and poster to inform the digitaly illeterate about scams and howto avoid them.
